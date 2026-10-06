@@ -1,0 +1,6 @@
+1 ?- Path = [p, q, s] 
+2 ?- Path = [p, q, s, w, z] 
+3 ?- Path = [p, r, u, x] 
+4 ?- false.
+
+5 ?- 
